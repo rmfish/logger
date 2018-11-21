@@ -1,4 +1,4 @@
-package gorequest
+package logger
 
 import (
 	"go.uber.org/zap"
